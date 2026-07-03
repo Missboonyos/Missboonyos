@@ -17,7 +17,9 @@ My work combines:
 
 ## Steel Compass
 
-Helping steel importers ask the right compliance questions before customs does.
+> Compliance decision-support system for steel importers in Thailand
+
+![Steel Compass](./assets/SteelCompass-ComplianceSummary_screenshot.png)
 
 ⭐ Live Demo
 
