@@ -1,43 +1,68 @@
 # Hi, I'm Kwanta 👋
 
-Business Systems Designer
+**Business Systems Designer**
 
-I build practical software for international trade compliance, and AI-assisted workflow automation.
+I design practical software that helps people make better business decisions.
+
+My work combines:
+
+- 🌏 19 years in international trade
+- 💻 AI-assisted software development
+- 🏗️ Business systems design
+- 📊 Product thinking
 
 ---
 
-## 🧭 Current Project
+# 🧭 Current Project
 
-**Steel Compass**
+## Steel Compass
 
-A decision-support MVP helping steel importers identify trade compliance risks before customs does.
+Helping steel importers ask the right compliance questions before customs does.
 
-🔗 Live Demo:
+🌐 Live Demo
+
 https://steel-compass.vercel.app
 
+📘 Public Documentation
+
+https://github.com/Missboonyos/steel-compass-docs
+
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-- TypeScript
+Frontend
+
 - React
+- TypeScript
 - Vite
 - Tailwind CSS
+
+Backend / Data
+
 - Supabase
+- PostgreSQL
+
+Tools
+
+- Git
+- GitHub
 - Python
+- OpenAI
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
-- Full Stack JavaScript
 - Software Architecture
-- AI-assisted Development
-- Product Design
+- System Design
+- Product Development
+- AI Engineering
 
 ---
 
-## 📫 Connect
+# 🎯 Career Goal
 
-- LinkedIn: www.linkedin.com/in/missboonyos
-- GitHub: https://github.com/Missboonyos
+Building software products that bridge business expertise with modern software engineering.
+
+Thanks for visiting my profile!
