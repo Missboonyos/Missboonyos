@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Kwanta 👋
 
-<!--
-**Missboonyos/Missboonyos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Systems Designer
 
-Here are some ideas to get you started:
+I build practical software for international trade compliance, and AI-assisted workflow automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧭 Current Project
+
+**Steel Compass**
+
+A decision-support MVP helping steel importers identify trade compliance risks before customs does.
+
+🔗 Live Demo:
+https://steel-compass.vercel.app
+
+---
+
+## 💻 Tech Stack
+
+- TypeScript
+- React
+- Vite
+- Tailwind CSS
+- Supabase
+- Python
+
+---
+
+## 🌱 Currently Learning
+
+- Full Stack JavaScript
+- Software Architecture
+- AI-assisted Development
+- Product Design
+
+---
+
+## 📫 Connect
+
+- LinkedIn
+- GitHub
