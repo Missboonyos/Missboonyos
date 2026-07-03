@@ -19,11 +19,11 @@ My work combines:
 
 Helping steel importers ask the right compliance questions before customs does.
 
-🌐 Live Demo
+⭐ Live Demo
 
 https://steel-compass.vercel.app
 
-📘 Public Documentation
+📘 Project Documentation
 
 https://github.com/Missboonyos/steel-compass-docs
 
@@ -50,14 +50,20 @@ Tools
 - Python
 - OpenAI
 
+Architecture
+
+• Decision Support Systems
+• System Design
+• Product Architecture
+
 ---
 
-# 🌱 Currently Learning
+# 🌱 Currently exploring
 
-- Software Architecture
-- System Design
-- Product Development
-- AI Engineering
+• AI Agents
+• System Design
+• Product Engineering
+• Cloud Architecture
 
 ---
 
@@ -65,4 +71,16 @@ Tools
 
 Building software products that bridge business expertise with modern software engineering.
 
-Thanks for visiting my profile!
+---
+
+## My approach
+
+I believe software should help people make better decisions,
+not replace their judgement.
+
+I enjoy building products where business expertise,
+clear system thinking,
+and software engineering come together.
+
+---
+💙 Thanks for visiting my profile!
