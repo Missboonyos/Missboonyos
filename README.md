@@ -52,18 +52,18 @@ Tools
 
 Architecture
 
-• Decision Support Systems
-• System Design
-• Product Architecture
+- Decision Support Systems
+- System Design
+- Product Architecture
 
 ---
 
 # 🌱 Currently exploring
 
-• AI Agents
-• System Design
-• Product Engineering
-• Cloud Architecture
+- AI Agents
+- System Design
+- Product Engineering
+- Cloud Architecture
 
 ---
 
@@ -73,7 +73,7 @@ Building software products that bridge business expertise with modern software e
 
 ---
 
-## My approach
+## 🧭 My approach
 
 I believe software should help people make better decisions,
 not replace their judgement.
