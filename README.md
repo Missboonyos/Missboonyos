@@ -39,5 +39,5 @@ https://steel-compass.vercel.app
 
 ## 📫 Connect
 
-- LinkedIn
-- GitHub
+- LinkedIn: www.linkedin.com/in/missboonyos
+- GitHub: https://github.com/Missboonyos
